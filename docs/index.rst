@@ -12,6 +12,14 @@ DeepEEG is combined study of two fields, the Brain and Deep Learning. Here we co
 
 .. toctree::
    :maxdepth: 2
+   .. installation.rst
+   csv-process.rst
+   .. handbook/index.rst
+   .. reference/index.rst
+   .. porting.rst
+   about.rst
+   .. releasenotes/index.rst
+
 
 
 
