@@ -8,6 +8,8 @@ Welcome to DeepEEG's documentation!
 
 Contents:
 
+DeepEEG is combined study of two fields, the Brain and Deep Learning. Here we collect brain activity from numerous participants while they performing the specially designed protocol, which implies various levels of cognitive load on the subject. 
+
 .. toctree::
    :maxdepth: 2
 
