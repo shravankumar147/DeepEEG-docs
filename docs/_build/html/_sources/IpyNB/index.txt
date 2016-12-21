@@ -1,4 +1,7 @@
+Imagedocs
+=========
+
 .. toctree::
-   :maxdepth: 2
-   .. installation.rst
-   csv-process.rst
+  :maxdepth: 2
+
+  csv-process
